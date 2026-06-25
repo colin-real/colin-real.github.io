@@ -7,9 +7,6 @@ tags: [Claude, AI글쓰기, 업무자동화, Anthropic]
 comments: true
 share: true
 ---
-
-# Claude 사용법 실전 — 이메일, 보고서, 긴 글 요약 어떻게 쓰나
-
 ![AI 글쓰기](https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80)
 
 ChatGPT를 오래 쓰다 Claude를 처음 써봤을 때 첫 반응은 "비슷하네"였다. 근데 한 달 쓰고 나니 분명히 다른 부분이 있었다. 특히 글쓰기 품질과 긴 문서를 다루는 능력에서.

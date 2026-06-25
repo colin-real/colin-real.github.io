@@ -7,9 +7,6 @@ tags: [Perplexity, ChatGPT, Gemini, AI검색]
 comments: true
 share: true
 ---
-
-# AI 검색 엔진 비교 2026 — Perplexity, ChatGPT Search, Gemini 어떤 게 낫나
-
 ![AI 검색 비교](https://images.unsplash.com/photo-1655720031554-a929595ffad7?w=800&q=80)
 
 구글 검색 대신 AI 검색을 쓰는 사람이 많아졌다. 근데 도구가 여러 개여서 어떤 걸 써야 할지 헷갈린다. 실제로 쓰면서 느낀 차이를 정리했다.

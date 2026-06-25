@@ -7,9 +7,6 @@ tags: [Gemini, GoogleAI, AI도구추천, AI입문]
 comments: true
 share: true
 ---
-
-# Gemini 써봤더니 — 기대했던 것과 달랐던 점 정직하게
-
 ![Gemini 사용](https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800&q=80)
 
 구글이 만든 AI니까 당연히 구글 검색이랑 연동이 잘 되겠지, 구글 문서도 같이 쓰기 편하겠지 — 라고 기대하고 써봤다. 맞는 부분도 있었고 아쉬운 부분도 있었다.

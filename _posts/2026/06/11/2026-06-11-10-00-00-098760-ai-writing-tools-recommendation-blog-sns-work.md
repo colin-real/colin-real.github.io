@@ -7,9 +7,6 @@ tags: [AI글쓰기, ChatGPT, Claude, 생산성]
 comments: true
 share: true
 ---
-
-# AI 글쓰기 도구 추천 — 블로그, SNS, 업무 보고서 상황별로 다르다
-
 ![글쓰기 도구](https://images.unsplash.com/photo-1542435503-956c469947f6?w=800&q=80)
 
 AI 글쓰기 도구라고 다 같은 게 아니다. 인스타 캡션 쓰는 AI와 긴 보고서 쓰는 AI가 같을 수가 없다. 목적에 맞는 도구를 쓰는 게 시간을 아끼는 방법이다.

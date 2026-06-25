@@ -7,9 +7,6 @@ tags: [ChatGPT, Gemini, Claude, AI뉴스, AI트렌드]
 comments: true
 share: true
 ---
-
-# ChatGPT 점유율이 처음으로 50% 아래로 떨어졌다 — 지금 AI 시장에 무슨 일이 일어나고 있나
-
 ![AI 시장 경쟁 트렌드](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80)
 
 ChatGPT 점유율이 46.4%까지 내려가면서 처음으로 절반 아래가 됐다. 불과 1년 전까지만 해도 76%를 넘었는데.

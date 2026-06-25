@@ -7,9 +7,6 @@ tags: [AI부업, AI번역, 프리랜서AI, 생산성]
 comments: true
 share: true
 ---
-
-# AI 번역으로 부업 가능한가 — 현실적으로 따져봤다
-
 ![번역 부업](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80)
 
 "AI 번역으로 부업한다"는 말이 많아졌다. 실제로 해보거나, 해본 사람 이야기를 들어보니 가능은 한데 기대치 조정이 필요하다.

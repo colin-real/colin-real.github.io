@@ -7,9 +7,6 @@ tags: [AI부업, 생산성, AI글쓰기, 프리랜서AI]
 comments: true
 share: true
 ---
-
-# AI로 부업하는 실제 사례 — 어떤 것들이 실제로 가능한가
-
 ![부업 수익](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80)
 
 "AI로 한 달에 OOO만원 번다"는 글이 넘친다. 절반은 과장이고 절반은 진짜다. 실제로 가능한 것과 기대치를 낮춰야 하는 것을 구분해서 정리했다.

@@ -7,9 +7,6 @@ tags: [ChatGPT, 프롬프트, AI입문, 생산성]
 comments: true
 share: true
 ---
-
-# ChatGPT 프롬프트 잘 쓰는 법 — 잘 되는 것과 안 되는 것
-
 ![프롬프트 작성](https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80)
 
 ChatGPT를 처음 쓸 때 "이거 별로다"는 생각이 드는 이유의 절반은 질문 방식이 잘못됐기 때문이다. 같은 AI인데 어떻게 물어보느냐에 따라 결과가 완전히 달라진다.

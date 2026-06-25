@@ -7,9 +7,6 @@ tags: [AI저작권, AI이미지, 법률상식, AI윤리]
 comments: true
 share: true
 ---
-
-# AI 이미지 저작권 논란 — 내가 만든 AI 이미지, 내 것이 맞나
-
 ![AI 저작권](https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80)
 
 AI 이미지 생성기로 만든 이미지를 블로그에 올리거나 상품에 쓰려는데, 저작권이 걱정됐다. 실제로 어떻게 되는지 찾아봤다.

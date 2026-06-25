@@ -7,9 +7,6 @@ tags: [Gemini, AI뉴스, AI업데이트, GoogleAI, 생산성]
 comments: true
 share: true
 ---
-
-# Google Gemini Daily Brief — 아침에 이메일·일정을 AI가 먼저 정리해준다
-
 ![Google Gemini AI 아침 브리핑 캘린더 일정 요약](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80)
 
 Gemini가 오늘부터 매일 아침 내 이메일과 일정을 알아서 정리해준다. 구글이 오늘(2026년 6월 24일) Gemini 앱에 **Daily Brief** 기능을 정식 출시했다. 미국 내 Google AI Plus·Pro·Ultra 구독자부터 먼저 쓸 수 있다.

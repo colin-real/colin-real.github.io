@@ -7,9 +7,6 @@ tags: [ChatGPT, AI업데이트, AI뉴스, OpenAI, AI입문]
 comments: true
 share: true
 ---
-
-# ChatGPT 6월 대형 업데이트 — 일반 사용자한테 실제로 달라진 것 4가지
-
 ![ChatGPT 인터페이스 업데이트 화면](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80)
 
 ChatGPT가 6월 한 달 동안 꽤 많이 바뀌었다. 근데 대부분의 뉴스는 GPT-5.6 출시 루머에만 집중했고, 실제로 지금 내 계정에 적용된 변화들은 잘 안 다뤘다.

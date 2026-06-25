@@ -7,9 +7,6 @@ tags: [Claude, AI뉴스, 업무자동화, 직장인AI, Anthropic]
 comments: true
 share: true
 ---
-
-# Claude Tag — 슬랙에 AI 팀원이 생겼다, 실제로 뭐가 달라지나
-
 ![슬랙 채널에서 AI와 협업하는 화면](https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80)
 
 Slack에서 @Claude를 태그하면 AI가 채널 히스토리를 읽고 업무를 처리한다. 어제(6월 23일) 앤트로픽이 내놓은 Claude Tag 얘기다. 그냥 붙여넣는 챗봇이 아니라, 채널에 상주하면서 팀 맥락을 알아서 파악하는 구조다.

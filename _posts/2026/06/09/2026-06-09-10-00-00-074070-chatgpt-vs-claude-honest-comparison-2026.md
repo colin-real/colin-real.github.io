@@ -7,9 +7,6 @@ tags: [ChatGPT, Claude, AI도구추천, AI입문]
 comments: true
 share: true
 ---
-
-# ChatGPT vs Claude — 직접 써보고 솔직하게 비교했다
-
 ![AI 비교](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80)
 
 "ChatGPT가 나아요, Claude가 나아요?" 이 질문을 자주 받는다. 둘 다 6개월 넘게 써봤는데, 솔직히 말하면 상황에 따라 다르다. 한 쪽이 압도적으로 낫다고 말하는 사람은 한 가지만 써본 거다.

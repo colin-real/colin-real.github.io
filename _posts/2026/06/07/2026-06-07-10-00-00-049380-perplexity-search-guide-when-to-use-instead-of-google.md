@@ -7,9 +7,6 @@ tags: [Perplexity, AI검색, 생산성, AI입문]
 comments: true
 share: true
 ---
-
-# Perplexity 검색 활용법 — 구글 대신 쓸 수 있는 상황이 있다
-
 ![검색 활용](https://images.unsplash.com/photo-1555952517-2e8e729e0b44?w=800&q=80)
 
 구글을 대체할 수 있다는 AI 검색 서비스가 여럿 나왔다. 그중 Perplexity를 3개월 정도 써봤다. 결론부터 말하면 구글을 완전히 대체하진 않는데, 특정 상황에선 훨씬 빠르다.

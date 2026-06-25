@@ -7,9 +7,6 @@ tags: [ChatGPT, 업무자동화, 생산성, 직장인AI]
 comments: true
 share: true
 ---
-
-# ChatGPT 업무 활용법 — 실제 직장인이 쓰는 5가지 패턴
-
 ![직장인 업무](https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=800&q=80)
 
 ChatGPT를 "신기한 채팅 AI"로만 쓰다가 어느 순간 업무 도구로 쓰기 시작했다. 처음엔 효과가 있는지도 몰랐는데, 반년 쓰고 나니 없으면 불편한 도구가 됐다. 특히 반복적으로 쓰게 되는 패턴이 생겼다.

@@ -7,9 +7,6 @@ tags: [Copilot, Microsoft, 업무자동화, 직장인AI]
 comments: true
 share: true
 ---
-
-# Microsoft Copilot 무료로 쓰는 법 — 이 기능들은 진짜 쓸 만하다
-
 ![Microsoft Copilot](https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=800&q=80)
 
 마이크로소프트 Copilot이 그냥 Bing AI 검색 업그레이드 버전인 줄 알았는데, 무료로 쓸 수 있는 기능이 생각보다 많다. 특히 윈도우 컴퓨터를 쓰거나 엣지 브라우저를 쓴다면 이미 설치돼 있다.

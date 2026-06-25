@@ -7,9 +7,6 @@ tags: [Midjourney, DALL-E, AI이미지, 생산성]
 comments: true
 share: true
 ---
-
-# AI 이미지 생성 도구 비교 — Midjourney, DALL-E, 무료 도구까지
-
 ![AI 이미지 생성](https://images.unsplash.com/photo-1686191128892-3b37add4c844?w=800&q=80)
 
 이미지 만들려고 디자이너에게 부탁하거나 직접 포토샵을 배우던 시대가 지났다. 지금은 텍스트 몇 줄로 이미지가 나온다. 근데 도구마다 결과물 느낌과 가격이 꽤 다르다.
