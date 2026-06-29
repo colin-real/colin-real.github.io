@@ -212,5 +212,5 @@ share: true
 
 단편 중심 블로그 — 시리즈보다 날짜별 독립 포스트.
 
-마지막 포스트: `_posts/2026/06/26/2026-06-26-10-00-00-617250-monthly-rent-tax-deduction-year-end.md`
-다음 일련번호: `629595`
+마지막 포스트: `_posts/2026/06/28/2026-06-28-10-00-00-678975-july-tax-reform-holding-tax-real-owner.md`
+다음 일련번호: `691320`
