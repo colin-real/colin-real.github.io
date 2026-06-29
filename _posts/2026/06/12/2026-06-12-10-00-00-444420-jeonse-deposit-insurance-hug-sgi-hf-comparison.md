@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 전세보증보험 가입 방법 — HUG·SGI·HF 차이와 조건
-
 ![전세보증보험 가입](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80)
 
 전세보증보험은 집주인이 보증금을 돌려주지 않을 때 보증기관이 대신 지급해주는 상품이다. HUG, SGI서울보증, HF 세 군데에서 취급하는데 조건이 다 다르다.

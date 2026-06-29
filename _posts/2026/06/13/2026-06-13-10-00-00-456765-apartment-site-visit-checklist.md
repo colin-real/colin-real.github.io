@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 아파트 임장 체크리스트 — 현장에서 반드시 봐야 할 것들
-
 ![아파트 임장 현장](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 임장은 사진 찍으러 가는 게 아니다. 사진에 안 나오는 것들을 확인하러 가는 거다.

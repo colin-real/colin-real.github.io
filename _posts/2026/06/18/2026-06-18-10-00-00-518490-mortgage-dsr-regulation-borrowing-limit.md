@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 주담대 DSR 규제 — 실제로 얼마까지 빌릴 수 있나
-
 ![주담대 DSR 계산](https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=800&q=80)
 
 DSR 40%가 뭔지 모르고 은행에 갔다가 예상 대출 한도보다 몇 억이 짧게 나와서 당황하는 일이 생긴다. 계획 단계에서 본인 한도를 미리 계산해야 한다.
